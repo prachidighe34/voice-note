@@ -23,7 +23,7 @@ This character was used only for project purposes, not to commercialize the char
 
 ## Demo
 
-"/home/prachi/voice-note/Timeline 1.gif"
+[![Voice-note](https://img.youtube.com/vi/QywwFe8lqHU/0.jpg)](https://www.youtube.com/watch?v=QywwFe8lqHU)
 
 ## Architecture
 
