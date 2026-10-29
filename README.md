@@ -1,5 +1,3 @@
-# voice-note
-
 # Voice Notes
 
 Voice notes that translate themselves. Record offline on your phone, and
